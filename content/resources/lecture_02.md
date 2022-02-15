@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This Lecture Note contains: Vainberg Theorem; Apply to L.E.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-225-computational-mechanics-of-materials-fall-2003/136afcbdb69f51abbd68ce37c19a16c8_lecture_02.pdf
+file: /media/courses/16-225-computational-mechanics-of-materials-fall-2003/136afcbdb69f51abbd68ce37c19a16c8_lecture_02.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_02.pdf
 uid: 136afcbd-b69f-51ab-bd68-ce37c19a16c8

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 930e7941-f882-2033-7c3e-d0d6176f903c
 ---
@@ -60,7 +63,7 @@ Weighted - Residuals / Galerkin; Principle of Virtual Work; Geometrical Interpre
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Sobolev Norms; Global Shape Function; Computation of K and fext; Isoparametric Elements ([PDF]({{< baseurl >}}/resources/lesson_5_notes))
+Sobolev Norms; Global Shape Function; Computation of K and f{{< sup "ext" >}}; Isoparametric Elements ([PDF]({{< baseurl >}}/resources/lesson_5_notes))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +99,7 @@ Linear Elasticity; Numerical Integration Errors; Basic Error Estimates; Conditio
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Incompressible Elasticity; Hooke's Law; Governing Equations; "B"-Matrix; Volumetric and Deviatoric Components of "Kh" ([PDF]({{< baseurl >}}/resources/lesson__9_notes))
+Incompressible Elasticity; Hooke's Law; Governing Equations; "B"-Matrix; Volumetric and Deviatoric Components of "K{{< sub "h" >}}" ([PDF]({{< baseurl >}}/resources/lesson__9_notes))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,7 +252,7 @@ Nonlinear Algorithms; Small-strain Plasticity; Kuhn-Tucker Form; Elastic-plastic
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Time-stepping Algorithms for Constitutive Relations; Numerical Quadrature; Newton-Raphson Solution Procedure; Backward Euler; Geometrical Interpretation; Closest Point Projection Algorithms; J2\-isotropic Hardening ([PDF]({{< baseurl >}}/resources/lecture_26))
+Time-stepping Algorithms for Constitutive Relations; Numerical Quadrature; Newton-Raphson Solution Procedure; Backward Euler; Geometrical Interpretation; Closest Point Projection Algorithms; J{{< sub "2" >}}\-isotropic Hardening ([PDF]({{< baseurl >}}/resources/lecture_26))
 {{< tdclose >}}
 
 {{< trclose >}}

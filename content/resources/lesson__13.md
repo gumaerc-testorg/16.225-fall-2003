@@ -3,8 +3,13 @@ content_type: resource
 description: 'This Lecture Note contains: Variational Formulation; Minimum Potential
   Energy Principle; Finite Element Approximations; Rayleigh - Ritz Method; Galerkin
   Approach.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-225-computational-mechanics-of-materials-fall-2003/022566de1efccc21fd68f0f34c901859_lesson__13.pdf
+file: /media/courses/16-225-computational-mechanics-of-materials-fall-2003/022566de1efccc21fd68f0f34c901859_lesson__13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lesson__13.pdf
 uid: 022566de-1efc-cc21-fd68-f0f34c901859
