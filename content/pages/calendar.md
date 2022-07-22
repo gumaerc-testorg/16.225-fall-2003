@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: d2c3de23-651c-11fe-19ab-98f859c9ba78
 ---
@@ -73,7 +76,7 @@ Weighted - Residuals / Galerkin; Principle of Virtual Work; Geometrical Interpre
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Sobolev Norms; Global Shape Function; Computation of K and fext; Isoparametric Elements
+Sobolev Norms; Global Shape Function; Computation of K and f{{< sup "ext" >}}; Isoparametric Elements
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -122,7 +125,7 @@ Linear Elasticity; Numerical Integration Errors; Basic Error Estimates; Conditio
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Incompressible Elasticity; Hooke's Law; Governing Equations; "B"-Matrix; Volumetric and Deviatoric Components of "Kh"
+Incompressible Elasticity; Hooke's Law; Governing Equations; "B"-Matrix; Volumetric and Deviatoric Components of "K{{< sub "h" >}}"
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -327,7 +330,7 @@ Nonlinear Algorithms; Small-strain Plasticity; Kuhn-Tucker Form; Elastic-plastic
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Time-stepping Algorithms for Constitutive Relations; Numerical Quadrature; Newton-Raphson Solution Procedure; Backward Euler; Geometrical Interpretation; Closest Point Projection Algorithms; J2\-isotropic Hardening
+Time-stepping Algorithms for Constitutive Relations; Numerical Quadrature; Newton-Raphson Solution Procedure; Backward Euler; Geometrical Interpretation; Closest Point Projection Algorithms; J{{< sub "2" >}}\-isotropic Hardening
 {{< tdclose >}}
 {{< tdopen >}}
 Assignment 5 Due
