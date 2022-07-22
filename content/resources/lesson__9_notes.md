@@ -6,6 +6,7 @@ file: /courses/16-225-computational-mechanics-of-materials-fall-2003/0b71963c3d0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lesson__9_Notes.pdf
 uid: 0b71963c-3d0a-c7f3-29cf-352ec8419dd0
 ---
 This Lecture Note contains: Incompressible Elasticity; Hooke's Law; Governing Equations; Volumetric and Deviatoric Components of "Kh".
-

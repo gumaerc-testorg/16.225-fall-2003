@@ -6,6 +6,7 @@ file: /courses/16-225-computational-mechanics-of-materials-fall-2003/778ffaeac7f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture__8.pdf
 uid: 778ffaea-c7fb-e63d-21dd-6152082b0071
 ---
 This Lecture Note contains: Linear Elasticity; Numerical Integration Errors; Basic Error Estimates; Conditions for Convergence; Beam Theory; Patch Test.
-

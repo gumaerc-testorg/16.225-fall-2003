@@ -6,6 +6,7 @@ file: /courses/16-225-computational-mechanics-of-materials-fall-2003/b6dbc861b1a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_23.pdf
 uid: b6dbc861-b1a1-0834-4437-1d04a326df39
 ---
 This Lecture Note contains: Multidimensional Case; Spectral Radius, Lax Equivalence Theorem.
-

@@ -7,6 +7,7 @@ file: /courses/16-225-computational-mechanics-of-materials-fall-2003/e253fa18037
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lesson__17_Notes_pdf.pdf
 uid: e253fa18-0374-1791-6d23-7de5cbd70820
 ---
 This Lecture Note contains: Time Dependent Problems; Nonlinear Elastodynamics (Hyperbolic); Nonlinear Heat Conduction (Parabolic); Initial Boundary Value Problem (IBVP); Finite Element (semi) Discretization.
-

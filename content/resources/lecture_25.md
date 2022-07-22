@@ -6,6 +6,7 @@ file: /courses/16-225-computational-mechanics-of-materials-fall-2003/2f18e330834
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture_25.pdf
 uid: 2f18e330-834b-4c85-a39d-646c4e7a83ae
 ---
 Nonlinear Algorithms; Small-strain Plasticity; Kuhn-Tucker Form; Elastic-plastic Moduli; Isotropic-kinematic Hardening
-

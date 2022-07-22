@@ -7,6 +7,7 @@ file: /courses/16-225-computational-mechanics-of-materials-fall-2003/0a7ffdf5265
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture_20.pdf
 uid: 0a7ffdf5-265f-edd8-262b-45fd5b26365b
 ---
 This Lecture Note contains: Connection Between Newmark Algorithm and Multistep Methods; Mass Humping; Consistent Mass; Nodal Quadrature; Row (Column) Sum Method; Algorithms Analysis; General Initial Value Problem (IVP).
-

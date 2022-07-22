@@ -7,6 +7,7 @@ file: /courses/16-225-computational-mechanics-of-materials-fall-2003/425650e25e4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lesson_15.pdf
 uid: 425650e2-5e4f-c048-ce23-e2ef4af134f4
 ---
 This Lecture Note contains: Introduce B-matrix (Spatial); Isoparametric Elements; Commutative Diagram; Tangent Stiffness; Calculation of Tangent Stiffness (continued); Material Frame Indifference; Lagrangian Moduli.
-

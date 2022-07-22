@@ -7,6 +7,7 @@ file: /courses/16-225-computational-mechanics-of-materials-fall-2003/4f2d5cb6c03
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lesson_18.pdf
 uid: 4f2d5cb6-c032-b689-b0ab-b4652a5672af
 ---
 This Lecture Note contains: Constitutive Relations: Fourier Law of Heat Conduction; Finite Element Discretization (Spatial); Time-stepping Algorithms; Newmark Predicators; Newmark Correctors; Convergence Check; Explicit Dynamics.
-

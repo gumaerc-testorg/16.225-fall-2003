@@ -6,6 +6,7 @@ file: /courses/16-225-computational-mechanics-of-materials-fall-2003/f08a9249043
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_14_notes.pdf
 uid: f08a9249-0431-fe73-4582-7a1f2c339ad4
 ---
 This Lecture Note contains: Newton-Raphson Solution Procedure; Continuation Method; Iteration Process; Computation of Tangent Stiffness; Spatial Formulation.
-

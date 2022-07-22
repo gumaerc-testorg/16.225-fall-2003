@@ -6,6 +6,7 @@ file: /courses/16-225-computational-mechanics-of-materials-fall-2003/99ad29de2dc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_07_Notes.pdf
 uid: 99ad29de-2dc6-4a0f-30ef-dbc7c463eba3
 ---
 This Lecture Note contains: Error Estimation, Convergence of Finite Element Approximations; Error Estimates From Interpolation Theory.
-
