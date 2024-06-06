@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/bf41c876d565299986e9dd9400434f08_ha3.pdf
+file_size: 44077
 file_type: application/pdf
 learning_resource_types:
 - Assignments
