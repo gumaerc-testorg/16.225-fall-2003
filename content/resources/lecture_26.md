@@ -4,6 +4,7 @@ description: Time-stepping Algorithms for Constitutive Relations; Numerical Quad
   Newton-Raphson Solution Procedure; Backward Euler; Geometrical Interpretation; Closest
   Point Projection Algorithms; J2-isotropic Hardening
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/5ca1fcf6ef8cf7e4d95aa9b59e7b6584_Lecture_26.pdf
+file_size: 695610
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

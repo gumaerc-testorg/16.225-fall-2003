@@ -4,6 +4,7 @@ description: 'This Lecture Note contains: Finite Elasticity; Metric Changes; Sta
   of Stress; Field Equations: Linear Momentum Balance, Angular Momentum Balance, Energy
   Balance; Nonlinear Elastic Solid.'
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/caf120ffcc9883274a9b6f922ded31b0_lesson_12.pdf
+file_size: 739692
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

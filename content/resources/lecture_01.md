@@ -5,6 +5,7 @@ description: 'The Lecture Note contains: Elastic Solids; Legendre Transformation
   Example of a Functional: String; Extrema - Calculus of Variations; Local Form of
   Stationarity Condition.'
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/b3a091d523d8013a3c12d4a630cb67c7_lecture_01.pdf
+file_size: 580282
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -6,6 +6,7 @@ description: 'This Lecture Note contains: Material Formulation; Specific Materia
   Model; Mooney-Riulin Model; Neo-Hookean Model Extended to Compressible Range; Computation
   of Tangent Moduli.'
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/ec886bdb7416ed450692bcc171ee4aed_lesson__16_Notes.pdf
+file_size: 524572
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
