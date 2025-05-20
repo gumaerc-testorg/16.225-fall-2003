@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This Lecture Note contains: Examples: Trapezoidal Rule; Newmark''s Algorithm;
   Stability; Trapezoidal Rule, Scalar Problem.'
-file: /ol-ocw-studio-app/courses/16-225-computational-mechanics-of-materials-fall-2003/8472c6644f8727da9ae1a21db278958e_lecture_22.pdf
+file: /courses/16-225-computational-mechanics-of-materials-fall-2003/8472c6644f8727da9ae1a21db278958e_lecture_22.pdf
 file_size: 851961
 file_type: application/pdf
 learning_resource_types:

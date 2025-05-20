@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This Lecture Note contains: Assumed Strain Methods; Euler Equations;
   Mixed Methods.'
-file: /ol-ocw-studio-app/courses/16-225-computational-mechanics-of-materials-fall-2003/aed0e2547ac8cdd750dc54adbd3336aa_lesson_11.pdf
+file: /courses/16-225-computational-mechanics-of-materials-fall-2003/aed0e2547ac8cdd750dc54adbd3336aa_lesson_11.pdf
 file_size: 781959
 file_type: application/pdf
 learning_resource_types:

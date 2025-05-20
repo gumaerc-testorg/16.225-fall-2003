@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This Lecture Note contains: Trapezoidal Rule - Heat Conduction; Trapezoidal
   Predictor; Equivalent Static Problem; Trapezoidal Correctors; Convergence Check.'
-file: /ol-ocw-studio-app/courses/16-225-computational-mechanics-of-materials-fall-2003/6dd1ac8729acaba6ecf36bde176522a1_lesson_19_notes.pdf
+file: /courses/16-225-computational-mechanics-of-materials-fall-2003/6dd1ac8729acaba6ecf36bde176522a1_lesson_19_notes.pdf
 file_size: 236106
 file_type: application/pdf
 learning_resource_types:
