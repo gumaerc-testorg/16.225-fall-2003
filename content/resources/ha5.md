@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-225-computational-mechanics-of-materials-fall-2003/251dda0f83688d5ef0108732a0ef600e_ha5.pdf
+file: /ol-ocw-studio-app/courses/16-225-computational-mechanics-of-materials-fall-2003/251dda0f83688d5ef0108732a0ef600e_ha5.pdf
 file_size: 35709
 file_type: application/pdf
 learning_resource_types:
